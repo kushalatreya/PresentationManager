@@ -1,0 +1,6 @@
+
+.each_post {
+  border: dashed 4px black;
+  width: 300px;
+  padding: 10px;
+}
